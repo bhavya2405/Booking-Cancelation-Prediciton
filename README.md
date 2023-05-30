@@ -1,1 +1,2 @@
 # Booking-Cancelation-Prediciton
+The project involved predicting the booking status for hotels, specifically determining whether people would cancel their bookings or not. Various parameters such as arrival date, number of nights, and number of people were considered. Multiple machine learning models were implemented using a for loop to compare their ROC accuracy. The project achieved an impressive ROC accuracy of 0.89.
